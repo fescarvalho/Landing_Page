@@ -26,9 +26,22 @@
 }
 
 .grid-main-heading {
-    margin-bottom: 1rem;
+
+    margin-bottom: 1rem; 
 }
 
 .grid-description {
     padding-bottom: 6rem;
+}
+
+
+.grid-main-heading-gallery, .grid-description-gallery{
+    
+    padding-left: 80rem;
+}
+.grid-main-heading-gallery{
+    margin-bottom: 1rem; 
+}
+.grid-description-gallery{
+    padding-bottom: 6rem; 
 }

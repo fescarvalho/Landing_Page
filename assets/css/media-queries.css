@@ -64,4 +64,8 @@
     .menu-spacing {
         display: none;
     }
+
+    .grid-main-heading-gallery, .grid-description-gallery{
+        padding-left: 0; 
+    }
 }
