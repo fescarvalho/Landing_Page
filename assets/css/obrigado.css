@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+body {
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+}
+.obg{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.obg button {
+    border: 0.2rem solid #333;
+    border-radius: 5px;
+    padding: 0.5rem 0.5rem;
+    margin-left: 1rem;
+    background: none;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+}
+
+.obg button:hover {
+    background:white;
+    color: black;
+}
